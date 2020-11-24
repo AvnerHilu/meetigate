@@ -1,0 +1,119 @@
+.vMargine  {
+    
+    margin-bottom: 28px;
+}
+
+.mainMenu-p {
+    font-family: 'Merienda One', cursive;
+    font-size: 24px;
+    color: #0096C7;
+}
+
+.subMenu-p {
+    font-family: 'Merienda One', cursive;
+    font-size: 16px;
+    color: #03045E;
+}
+.attendeeText{
+    font-family: 'Merienda One', cursive;
+    font-size: 12px;
+    color: #03045E;
+    text-align: center;
+
+}
+.header {
+    font-family: 'Merienda One', cursive;
+    font-size: 32px;
+    text-align: left;
+    color: #03045E;
+}
+
+
+.mainIcon {
+    font-size: 60px;
+    color: #0096C7;
+
+}
+.mainNav {
+
+    background-color: #03045E ;
+}
+body {
+    background-color: #ADE8F4 ;
+}
+
+
+.menuItem:hover * {
+    filter: drop-shadow(8px 8px 8px rgba(255,255,255,0.4));
+    color: white;
+}
+
+.active * {
+    filter: drop-shadow(6px 6px 5px rgba(255,255,255,0.4));
+    color: white;
+}
+
+.notActive *{
+    filter: none;
+}
+
+.subIcon {
+    font-size: 50px;
+    color: #03045E;
+}
+    
+.navbar {
+    padding-right: 0;
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.subMenuItem:hover * {
+    filter: drop-shadow(8px 8px 8px rgba(0,0,0,0.4));
+    color: white;
+
+}
+
+.subMenuActive * {
+    filter: drop-shadow(8px 8px 8px rgba(0,0,0,0.4));
+    color: white;
+}
+
+.dataStyle{
+    font-family: 'Merienda One', cursive;
+    font-size: 20px;
+    text-align: left;
+    color: #023E8A;
+    
+}
+
+.attendeePic{
+
+    height : 150px;
+    filter:grayscale(100%);
+    
+}
+
+.attendeePic:hover{
+
+    height : 150px;
+    transform: scale(1.2);
+    
+    margin-bottom: 15px;
+    filter:none;
+}
+.imgContainer{
+    margin-right: 50px;
+}
+.imgContainer:hover *{
+    filter: drop-shadow(8px 8px 8px rgba(0,0,0,0.4));
+    
+}
+
+
+
+.picActive{
+    filter:none;
+    transform: scale(1.2);
+    margin-bottom: 15px;
+}

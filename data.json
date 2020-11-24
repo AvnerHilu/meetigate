@@ -1,0 +1,129 @@
+{
+    "info" : {
+                "agenda" : "Selling our next version – Oxitech - 1st follow up meeting with Simps Med (after the introduction remote meeting).",
+                "attendees" : [ "Carl Carlson – Sales person of Oxitech – Accepted (the meeting was set by his PA, Christina Delphi).",
+                                "Marge Simpson – Operations director - Accepted",
+                                "Homer Simpson – SW engineer (reports to Marge) – Accepted",
+                                "Lisa Simpson - SW QA (reports to Homer) - Declined"],
+                "scheduledTo": "October 25th 2pm EST",
+                "actionItems" : [   "Explain the purchase and installation process",
+                                    "Explain the advantages of the new version",
+                                    "Review the differences between the previous and new version",
+                                    "Explain the pricing"],
+                "goals" : [ "Provide answers to the client questions",
+                            "Convince Marge and Homer that the new version is a 'must have' in their organization",
+                            "Understand the barriers/concerns that can influence the sale"]
+            },
+    "attendees" : [{
+                "picture" : "https://media-exp1.licdn.com/dms/image/C5603AQG-6-9VPcI3Hg/profile-displayphoto-shrink_400_400/0?e=1610582400&v=beta&t=6WnEilhRHp2QzZb9X3hynaNyIYAJXLgNDAANNI4ffwE",
+                "firstName": "Avner",
+                "lastName": "Hilu",
+                "socialLinks" : [],
+                "publications" : [],
+                "workHistory": ["Sivan Ltd", "KerenX", "Tamir Fishman", "Lucky Ace Casino", "Jackpot", "Cathworks"],
+                "crmHistory": {
+                                "pastOpportunites" : [],
+                                "otherOpportunities" : [],
+                                "sharedContacts": [] 
+                },
+                "personalInfo" : {
+                                "location" : "",
+                                "news" : [],
+                                "hobbies" : [],
+                                "previousInfo": []
+
+
+                }
+
+                },
+                {
+                    "picture" : "https://media-exp1.licdn.com/dms/image/C5603AQHqzAdcwG1Wbw/profile-displayphoto-shrink_800_800/0?e=1610582400&v=beta&t=2dnFQuilAZF6pC1n_PHGLSCEcVgOteug5koLGZIjpEE",
+                    "firstName": "Sarit",
+                    "lastName": "Semo",
+                    "socialLinks" : [],
+                    "publications" : [],
+                    "workHistory": ["Sivan Ltd", "KerenX", "Tamir Fishman", "Lucky Ace Casino", "Jackpot", "Cathworks"],
+                    "crmHistory": {
+                                    "pastOpportunites" : [],
+                                    "otherOpportunities" : [],
+                                    "sharedContacts": [] 
+                    },
+                    "personalInfo" : {
+                                    "location" : "",
+                                    "news" : [],
+                                    "hobbies" : [],
+                                    "previousInfo": []
+    
+    
+                    }
+    
+                    },{
+                        "picture" : "https://media-exp1.licdn.com/dms/image/C4D03AQHjrjzCvB9Uhw/profile-displayphoto-shrink_800_800/0?e=1610582400&v=beta&t=C8f8BTdvrYhX577bw_mhNtqx-gzbabS4LNqZQJxFcS8",
+                        "firstName": "Milli",
+                        "lastName": "Peled",
+                        "socialLinks" : [],
+                        "publications" : [],
+                        "workHistory": ["Sivan Ltd", "KerenX", "Tamir Fishman", "Lucky Ace Casino", "Jackpot", "Cathworks"],
+                        "crmHistory": {
+                                        "pastOpportunites" : [],
+                                        "otherOpportunities" : [],
+                                        "sharedContacts": [] 
+                        },
+                        "personalInfo" : {
+                                        "location" : "",
+                                        "news" : [],
+                                        "hobbies" : [],
+                                        "previousInfo": []
+        
+        
+                        }
+        
+                        },{
+                            "picture" : "https://media-exp1.licdn.com/dms/image/C4D03AQGK6ycFr-YMhw/profile-displayphoto-shrink_800_800/0?e=1610582400&v=beta&t=H79042aATUblGTgFdiW_cqn9mOZ99uZob9DV3mifHFo",
+                            "firstName": "Shir",
+                            "lastName": "Goldberg",
+                            "socialLinks" : [],
+                            "publications" : [],
+                            "workHistory": ["Sivan Ltd", "KerenX", "Tamir Fishman", "Lucky Ace Casino", "Jackpot", "Cathworks"],
+                            "crmHistory": {
+                                            "pastOpportunites" : [],
+                                            "otherOpportunities" : [],
+                                            "sharedContacts": [] 
+                            },
+                            "personalInfo" : {
+                                            "location" : "",
+                                            "news" : [],
+                                            "hobbies" : [],
+                                            "previousInfo": []
+            
+            
+                            }
+            
+                            }],
+    "company" : {
+                "description" : {
+                                "info" : "",
+                                "industry" : "",
+                                "competitors" : ""
+                },
+                "news" : [],
+                "summaryCRM" : {
+
+                                "openOpportunities" : [],
+                                "wonOpportunities" : [],
+                                "lostOpportunities" : [],
+                                "assets" : [],
+                                "licenses" : [],
+                                "renewals" : []
+                }
+
+    },
+    "previousInteractions": {
+                "meetingsHistory": [],
+                "pastEmailsSummary" : [],
+                "concerns":[],
+                "changes": []
+
+    }
+
+}
